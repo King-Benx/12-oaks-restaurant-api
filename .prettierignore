@@ -1,0 +1,9 @@
+# Ignore artifacts:
+build
+coverage
+templates
+
+prettier.config.js
+package-lock.json
+schema.json
+package.json
