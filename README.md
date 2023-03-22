@@ -54,13 +54,13 @@ app
 1. Fetch all restaurants with support to ```location``` and ```term``` queries.
 
 ```
-    GET: /api/v1/restaurants 
+    GET: /restaurants 
 ```
 
 2. Fetch restaurant details by id.
 
 ```
-    GET: /api/v1/restaurants/{id} 
+    GET: /restaurants/{id} 
 ```
 
 ## Contributing to this project
@@ -74,8 +74,7 @@ Follow development conventions of ticket assignment, branch naming, meaningful a
 3. Ensure that your work is fully optimized.
 4. Test your code more than twice before requesting for reviews on your work.
 5. Incase of any known loose ends, kindly make it known within your pr description and why it is and what strategies will be needed to mitigate.
-6. When your pull request is ready, label it as ready for review and request 3 reviewers 2 of whom should be your Team Lead and PQA.
-7. Make sure any recommendations and valid requested changes are done before re-requesting for a second review.
+6. Make sure any recommendations and valid requested changes are done before re-requesting for a second review.
 
 ## Contributors
 
