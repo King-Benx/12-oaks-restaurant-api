@@ -4,7 +4,7 @@ import restaurantRouter from '../routes/restaurants';
 
 export default async function startServer() {
   const app = express();
-  app.use('/restaurants', restaurantRouter);
+  app.use('/api/restaurants', restaurantRouter);
   const httpServer = createServer(app);
 
   return { httpServer, app };

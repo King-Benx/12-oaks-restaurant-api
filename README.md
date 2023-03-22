@@ -54,13 +54,13 @@ app
 1. Fetch all restaurants with support to ```location``` and ```term``` queries.
 
 ```
-    GET: /restaurants 
+    GET: api/restaurants 
 ```
 
 2. Fetch restaurant details by id.
 
 ```
-    GET: /restaurants/{id} 
+    GET: api/restaurants/{id} 
 ```
 
 ## Contributing to this project
