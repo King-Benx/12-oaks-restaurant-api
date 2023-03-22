@@ -57,12 +57,6 @@ app
     GET: /api/v1/restaurants 
 ```
 
-1. Fetch all restaurants with support to ```location``` and ```term``` queries.
-
-```
-    GET: /api/v1/restaurants 
-```
-
 2. Fetch restaurant details by id.
 
 ```
