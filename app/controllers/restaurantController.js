@@ -13,7 +13,7 @@ const Restaurants = {
         term: 'restaurant',
       };
     }
-    if (!location && term) {
+    if (location && term) {
       searchRequest = {
         term,
         location,
