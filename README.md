@@ -11,7 +11,7 @@ MVC
 
 ## Recommended Node Version
 
-v17.0.1
+v18.0.0
 
 ## Technologies
 
